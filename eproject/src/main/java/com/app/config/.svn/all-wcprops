@@ -1,0 +1,64 @@
+package com.app.config;svn:wc:ra_dav:version-url
+V 102
+/svn/buzzor/!svn/ver/26075/trunk/development/appConfigTemplate/appSourceCode/src/com/app/server/config
+END
+WebConfigExtended.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/buzzor/!svn/ver/26075/trunk/development/appConfigTemplate/appSourceCode/src/com/app/server/config/WebConfigExtended.java
+END
+SpartanLogManagerLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/buzzor/!svn/ver/25677/trunk/development/appConfigTemplate/appSourceCode/src/com/app/server/config/SpartanLogManagerLoader.java
+END
+WebInitializer.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/buzzor/!svn/ver/26075/trunk/development/appConfigTemplate/appSourceCode/src/com/app/server/config/WebInitializer.java
+END
+JPAConfig.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/buzzor/!svn/ver/26075/trunk/development/appConfigTemplate/appSourceCode/src/com/app/server/config/JPAConfig.java
+END
+JwtInitializer.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/buzzor/!svn/ver/26075/trunk/development/appConfigTemplate/appSourceCode/src/com/app/server/config/JwtInitializer.java
+END
+UUIDGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/buzzor/!svn/ver/25677/trunk/development/appConfigTemplate/appSourceCode/src/com/app/server/config/UUIDGenerator.java
+END
+WebConfig.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/buzzor/!svn/ver/26075/trunk/development/appConfigTemplate/appSourceCode/src/com/app/server/config/WebConfig.java
+END
+BootConfig.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/buzzor/!svn/ver/20346/trunk/development/appConfigTemplate/appSourceCode/src/com/app/server/config/BootConfig.java
+END
+AppBasicDataSource.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/buzzor/!svn/ver/26075/trunk/development/appConfigTemplate/appSourceCode/src/com/app/server/config/AppBasicDataSource.java
+END
+SecurityConfig.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/buzzor/!svn/ver/26075/trunk/development/appConfigTemplate/appSourceCode/src/com/app/server/config/SecurityConfig.java
+END

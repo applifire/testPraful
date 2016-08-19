@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/buzzor/!svn/ver/18207/trunk/development/appConfigTemplate/appSourceCode/calendar/view
+END
+Week.js
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/buzzor/!svn/ver/18207/trunk/development/appConfigTemplate/appSourceCode/calendar/view/Week.js
+END
+1_Month.js
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/buzzor/!svn/ver/18207/trunk/development/appConfigTemplate/appSourceCode/calendar/view/1_Month.js
+END
+1_Week.js
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/buzzor/!svn/ver/18207/trunk/development/appConfigTemplate/appSourceCode/calendar/view/1_Week.js
+END
+Month.js
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/buzzor/!svn/ver/18207/trunk/development/appConfigTemplate/appSourceCode/calendar/view/Month.js
+END
+1_DayBody.js
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/buzzor/!svn/ver/18207/trunk/development/appConfigTemplate/appSourceCode/calendar/view/1_DayBody.js
+END
+AbstractCalendar.js
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/buzzor/!svn/ver/18207/trunk/development/appConfigTemplate/appSourceCode/calendar/view/AbstractCalendar.js
+END
+DayBody.js
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/buzzor/!svn/ver/18207/trunk/development/appConfigTemplate/appSourceCode/calendar/view/DayBody.js
+END
+1_AbstractCalendar.js
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/buzzor/!svn/ver/18207/trunk/development/appConfigTemplate/appSourceCode/calendar/view/1_AbstractCalendar.js
+END
+1_Day.js
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/buzzor/!svn/ver/18207/trunk/development/appConfigTemplate/appSourceCode/calendar/view/1_Day.js
+END
+MonthDayDetail.js
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/buzzor/!svn/ver/18207/trunk/development/appConfigTemplate/appSourceCode/calendar/view/MonthDayDetail.js
+END
+Day.js
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/buzzor/!svn/ver/18207/trunk/development/appConfigTemplate/appSourceCode/calendar/view/Day.js
+END
+1_DayHeader.js
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/buzzor/!svn/ver/18207/trunk/development/appConfigTemplate/appSourceCode/calendar/view/1_DayHeader.js
+END
+1_MonthDayDetail.js
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/buzzor/!svn/ver/18207/trunk/development/appConfigTemplate/appSourceCode/calendar/view/1_MonthDayDetail.js
+END
+DayHeader.js
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/buzzor/!svn/ver/18207/trunk/development/appConfigTemplate/appSourceCode/calendar/view/DayHeader.js
+END

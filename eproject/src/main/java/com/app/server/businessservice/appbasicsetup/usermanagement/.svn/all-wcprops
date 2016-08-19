@@ -1,0 +1,58 @@
+package com.app.server.businessservice.appbasicsetup.usermanagement;svn:wc:ra_dav:version-url
+V 135
+/svn/buzzor/!svn/ver/26298/trunk/development/appConfigTemplate/appSourceCode/src/com/app/server/bizService/appbasicsetup/usermanagement
+END
+MVaayooSMSSender.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/buzzor/!svn/ver/26271/trunk/development/appConfigTemplate/appSourceCode/src/com/app/server/bizService/appbasicsetup/usermanagement/MVaayooSMSSender.java
+END
+DocumentTemplateDomainService.java
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/svn/buzzor/!svn/ver/26075/trunk/development/appConfigTemplate/appSourceCode/src/com/app/server/bizService/appbasicsetup/usermanagement/DocumentTemplateDomainService.java
+END
+SMSSenderInterface.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/buzzor/!svn/ver/26233/trunk/development/appConfigTemplate/appSourceCode/src/com/app/server/bizService/appbasicsetup/usermanagement/SMSSenderInterface.java
+END
+PasswordGeneratorBizService.java
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/svn/buzzor/!svn/ver/26075/trunk/development/appConfigTemplate/appSourceCode/src/com/app/server/bizService/appbasicsetup/usermanagement/PasswordGeneratorBizService.java
+END
+PasswordGeneratorBizServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/svn/buzzor/!svn/ver/26075/trunk/development/appConfigTemplate/appSourceCode/src/com/app/server/bizService/appbasicsetup/usermanagement/PasswordGeneratorBizServiceImpl.java
+END
+MvaayooSMSSenderBusinessService.java
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/svn/buzzor/!svn/ver/26298/trunk/development/appConfigTemplate/appSourceCode/src/com/app/server/bizService/appbasicsetup/usermanagement/MvaayooSMSSenderBusinessService.java
+END
+NotificationDomainService.java
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/svn/buzzor/!svn/ver/26075/trunk/development/appConfigTemplate/appSourceCode/src/com/app/server/bizService/appbasicsetup/usermanagement/NotificationDomainService.java
+END
+EMailSender.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/buzzor/!svn/ver/26075/trunk/development/appConfigTemplate/appSourceCode/src/com/app/server/bizService/appbasicsetup/usermanagement/EMailSender.java
+END
+SMSNotificationBusinessService.java
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/svn/buzzor/!svn/ver/26075/trunk/development/appConfigTemplate/appSourceCode/src/com/app/server/bizService/appbasicsetup/usermanagement/SMSNotificationBusinessService.java
+END

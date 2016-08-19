@@ -1,0 +1,88 @@
+package com.app.server.repository.appbasicsetup.usermanagement;svn:wc:ra_dav:version-url
+V 135
+/svn/buzzor/!svn/ver/26075/trunk/development/appConfigTemplate/appSourceCode/src/com/app/server/repository/appbasicsetup/usermanagement
+END
+SMSNotificationRepository.java
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/svn/buzzor/!svn/ver/26075/trunk/development/appConfigTemplate/appSourceCode/src/com/app/server/repository/appbasicsetup/usermanagement/SMSNotificationRepository.java
+END
+SMSNotificationRepositoryImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/svn/buzzor/!svn/ver/25974/trunk/development/appConfigTemplate/appSourceCode/src/com/app/server/repository/appbasicsetup/usermanagement/SMSNotificationRepositoryImpl.java
+END
+ArtAppNotificationTemplateRepositoryImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 181
+/svn/buzzor/!svn/ver/25094/trunk/development/appConfigTemplate/appSourceCode/src/com/app/server/repository/appbasicsetup/usermanagement/ArtAppNotificationTemplateRepositoryImpl.java
+END
+ArtAppNotificationTemplateRepository.java
+K 25
+svn:wc:ra_dav:version-url
+V 177
+/svn/buzzor/!svn/ver/26075/trunk/development/appConfigTemplate/appSourceCode/src/com/app/server/repository/appbasicsetup/usermanagement/ArtAppNotificationTemplateRepository.java
+END
+ArtPasswordAlgorithmRepository.java
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/svn/buzzor/!svn/ver/26075/trunk/development/appConfigTemplate/appSourceCode/src/com/app/server/repository/appbasicsetup/usermanagement/ArtPasswordAlgorithmRepository.java
+END
+ArtPasswordAlgorithmRepositoryImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/svn/buzzor/!svn/ver/26075/trunk/development/appConfigTemplate/appSourceCode/src/com/app/server/repository/appbasicsetup/usermanagement/ArtPasswordAlgorithmRepositoryImpl.java
+END
+ArtPasswordPolicyRepository.java
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/svn/buzzor/!svn/ver/26075/trunk/development/appConfigTemplate/appSourceCode/src/com/app/server/repository/appbasicsetup/usermanagement/ArtPasswordPolicyRepository.java
+END
+ArtPasswordPolicyRepositoryImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/svn/buzzor/!svn/ver/26075/trunk/development/appConfigTemplate/appSourceCode/src/com/app/server/repository/appbasicsetup/usermanagement/ArtPasswordPolicyRepositoryImpl.java
+END
+UserManagementRepository.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/buzzor/!svn/ver/26075/trunk/development/appConfigTemplate/appSourceCode/src/com/app/server/repository/appbasicsetup/usermanagement/UserManagementRepository.java
+END
+UserManagementRepositoryImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/svn/buzzor/!svn/ver/23327/trunk/development/appConfigTemplate/appSourceCode/src/com/app/server/repository/appbasicsetup/usermanagement/UserManagementRepositoryImpl.java
+END
+SMSConfigRepository.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/buzzor/!svn/ver/25974/trunk/development/appConfigTemplate/appSourceCode/src/com/app/server/repository/appbasicsetup/usermanagement/SMSConfigRepository.java
+END
+SMSConfigRepositoryImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/buzzor/!svn/ver/26075/trunk/development/appConfigTemplate/appSourceCode/src/com/app/server/repository/appbasicsetup/usermanagement/SMSConfigRepositoryImpl.java
+END
+ArtDocumentTemplateRepository.java
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/svn/buzzor/!svn/ver/25970/trunk/development/appConfigTemplate/appSourceCode/src/com/app/server/repository/appbasicsetup/usermanagement/ArtDocumentTemplateRepository.java
+END
+ArtDocumentTemplateRepositoryImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/svn/buzzor/!svn/ver/25962/trunk/development/appConfigTemplate/appSourceCode/src/com/app/server/repository/appbasicsetup/usermanagement/ArtDocumentTemplateRepositoryImpl.java
+END

@@ -1,0 +1,25 @@
+Ext.define('Buzzor.view.appreportui.ReportView', {
+	extend : 'Ext.form.Panel',
+	requires : ['Buzzor.view.appreportui.ReportViewController',
+	            'Buzzor.view.appreportui.datagrid.DataGridPanel',
+	            'Buzzor.view.appreportui.datagrid.DataGridView',
+	            'Buzzor.view.appreportui.querycriteria.QueryCriteriaView',
+	            'Buzzor.view.appreportui.chart.ChartView',
+	            'Buzzor.view.appreportui.datapoint.DataPointView',
+	            'Buzzor.view.googlemaps.map.MapPanel',
+	            'Buzzor.view.appreportui.chartpoint.ChartPointView'
+	            ],
+	xtype : 'reportView',
+	controller : 'reportViewController',
+	layout : 'border',
+	reportJSON:null,
+	bodyStyle:{
+        background:'#f6f6f6'
+    },
+	listeners : {
+		scope : 'controller',
+		afterrender : 'afterRenderReport',
+		boxready : 'fetchReportData',
+		added:'onReportAdded'
+	}
+});

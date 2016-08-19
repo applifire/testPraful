@@ -1,0 +1,4 @@
+package com.app.server.repository.appbasicsetup.usermanagement;
+public interface ArtDocumentTemplateRepository {
+	ArtDocumentTemplate findById(final String docTempId) throws Exception;
+}

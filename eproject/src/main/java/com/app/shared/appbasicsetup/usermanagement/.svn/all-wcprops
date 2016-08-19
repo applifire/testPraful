@@ -1,0 +1,40 @@
+package com.app.shared.appbasicsetup.usermanagement;svn:wc:ra_dav:version-url
+V 124
+/svn/buzzor/!svn/ver/26593/trunk/development/appConfigTemplate/appSourceCode/src/com/app/shared/appbasicsetup/usermanagement
+END
+ArtPasswordPolicy.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/buzzor/!svn/ver/26075/trunk/development/appConfigTemplate/appSourceCode/src/com/app/shared/appbasicsetup/usermanagement/ArtPasswordPolicy.java
+END
+SMSConfig.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/buzzor/!svn/ver/26232/trunk/development/appConfigTemplate/appSourceCode/src/com/app/shared/appbasicsetup/usermanagement/SMSConfig.java
+END
+ArtDocumentTemplate.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/buzzor/!svn/ver/25860/trunk/development/appConfigTemplate/appSourceCode/src/com/app/shared/appbasicsetup/usermanagement/ArtDocumentTemplate.java
+END
+SMSNotification.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/buzzor/!svn/ver/25852/trunk/development/appConfigTemplate/appSourceCode/src/com/app/shared/appbasicsetup/usermanagement/SMSNotification.java
+END
+ArtAppNotificationTemplate.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/buzzor/!svn/ver/26593/trunk/development/appConfigTemplate/appSourceCode/src/com/app/shared/appbasicsetup/usermanagement/ArtAppNotificationTemplate.java
+END
+ArtPasswordAlgorithm.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/buzzor/!svn/ver/26075/trunk/development/appConfigTemplate/appSourceCode/src/com/app/shared/appbasicsetup/usermanagement/ArtPasswordAlgorithm.java
+END

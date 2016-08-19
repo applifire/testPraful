@@ -1,0 +1,28 @@
+package com.app.config.annotation;svn:wc:ra_dav:version-url
+V 113
+/svn/buzzor/!svn/ver/26075/trunk/development/appConfigTemplate/appSourceCode/src/com/app/server/config/annotation
+END
+Complexity.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/buzzor/!svn/ver/26075/trunk/development/appConfigTemplate/appSourceCode/src/com/app/server/config/annotation/Complexity.java
+END
+SourceCodeAuthorField.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/buzzor/!svn/ver/25094/trunk/development/appConfigTemplate/appSourceCode/src/com/app/server/config/annotation/SourceCodeAuthorField.java
+END
+SourceCodeAuthorClass.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/buzzor/!svn/ver/25094/trunk/development/appConfigTemplate/appSourceCode/src/com/app/server/config/annotation/SourceCodeAuthorClass.java
+END
+SourceCodeAuthorMethod.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/buzzor/!svn/ver/25094/trunk/development/appConfigTemplate/appSourceCode/src/com/app/server/config/annotation/SourceCodeAuthorMethod.java
+END

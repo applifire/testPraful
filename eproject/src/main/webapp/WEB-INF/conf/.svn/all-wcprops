@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/buzzor/!svn/ver/26616/trunk/development/appConfigTemplate/appSourceCode/WebContent/WEB-INF/conf
+END
+AppAlarmsDups.xml
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/buzzor/!svn/ver/23395/trunk/development/appConfigTemplate/appSourceCode/WebContent/WEB-INF/conf/AppAlarmsDups.xml
+END
+ApplicationFrameworkAlarms.xml
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/buzzor/!svn/ver/26616/trunk/development/appConfigTemplate/appSourceCode/WebContent/WEB-INF/conf/ApplicationFrameworkAlarms.xml
+END
+ApplicationAlarms.xml
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/buzzor/!svn/ver/23395/trunk/development/appConfigTemplate/appSourceCode/WebContent/WEB-INF/conf/ApplicationAlarms.xml
+END
+LoggerConfiguration.xml
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/buzzor/!svn/ver/23534/trunk/development/appConfigTemplate/appSourceCode/WebContent/WEB-INF/conf/LoggerConfiguration.xml
+END

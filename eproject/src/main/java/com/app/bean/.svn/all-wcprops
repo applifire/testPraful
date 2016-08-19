@@ -1,0 +1,70 @@
+package com.app.bean;svn:wc:ra_dav:version-url
+V 93
+/svn/buzzor/!svn/ver/26075/trunk/development/appConfigTemplate/appSourceCode/src/com/app/bean
+END
+TokenCredentialBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/buzzor/!svn/ver/25974/trunk/development/appConfigTemplate/appSourceCode/src/com/app/bean/TokenCredentialBean.java
+END
+PwdPolicy.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/buzzor/!svn/ver/26075/trunk/development/appConfigTemplate/appSourceCode/src/com/app/bean/PwdPolicy.java
+END
+EmailBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/buzzor/!svn/ver/26075/trunk/development/appConfigTemplate/appSourceCode/src/com/app/bean/EmailBean.java
+END
+DocumentBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/buzzor/!svn/ver/26075/trunk/development/appConfigTemplate/appSourceCode/src/com/app/bean/DocumentBean.java
+END
+UserInfoBeanImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/buzzor/!svn/ver/25974/trunk/development/appConfigTemplate/appSourceCode/src/com/app/bean/UserInfoBeanImpl.java
+END
+SMSBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/buzzor/!svn/ver/25974/trunk/development/appConfigTemplate/appSourceCode/src/com/app/bean/SMSBean.java
+END
+DocumentTemplate.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/buzzor/!svn/ver/26075/trunk/development/appConfigTemplate/appSourceCode/src/com/app/bean/DocumentTemplate.java
+END
+NotificationTemplate.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/buzzor/!svn/ver/26075/trunk/development/appConfigTemplate/appSourceCode/src/com/app/bean/NotificationTemplate.java
+END
+PasswordLogic.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/buzzor/!svn/ver/26075/trunk/development/appConfigTemplate/appSourceCode/src/com/app/bean/PasswordLogic.java
+END
+LoginCredentialsBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/buzzor/!svn/ver/25974/trunk/development/appConfigTemplate/appSourceCode/src/com/app/bean/LoginCredentialsBean.java
+END
+SMSData.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/buzzor/!svn/ver/25974/trunk/development/appConfigTemplate/appSourceCode/src/com/app/bean/SMSData.java
+END

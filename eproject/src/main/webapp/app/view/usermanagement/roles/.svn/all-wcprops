@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/buzzor/!svn/ver/24483/trunk/development/appConfigTemplate/appSourceCode/WebContent/app/view/usermanagement/roles
+END
+RoleManagementController.js
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/buzzor/!svn/ver/24483/trunk/development/appConfigTemplate/appSourceCode/WebContent/app/view/usermanagement/roles/RoleManagementController.js
+END
+EditRoles.js
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/buzzor/!svn/ver/21415/trunk/development/appConfigTemplate/appSourceCode/WebContent/app/view/usermanagement/roles/EditRoles.js
+END
+EditRolesController.js
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/buzzor/!svn/ver/24483/trunk/development/appConfigTemplate/appSourceCode/WebContent/app/view/usermanagement/roles/EditRolesController.js
+END
+AddNewRoles.js
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/buzzor/!svn/ver/21407/trunk/development/appConfigTemplate/appSourceCode/WebContent/app/view/usermanagement/roles/AddNewRoles.js
+END
+AddNewRolesController.js
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/buzzor/!svn/ver/24483/trunk/development/appConfigTemplate/appSourceCode/WebContent/app/view/usermanagement/roles/AddNewRolesController.js
+END
+RoleManagement.js
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/buzzor/!svn/ver/8697/trunk/development/appConfigTemplate/appSourceCode/WebContent/app/view/usermanagement/roles/RoleManagement.js
+END

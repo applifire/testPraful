@@ -1,0 +1,94 @@
+package com.app.config.appSetup.model;svn:wc:ra_dav:version-url
+V 117
+/svn/buzzor/!svn/ver/25512/trunk/development/appConfigTemplate/appSourceCode/src/com/app/server/config/appSetup/model
+END
+ConnectorConfig.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/buzzor/!svn/ver/25094/trunk/development/appConfigTemplate/appSourceCode/src/com/app/server/config/appSetup/model/ConnectorConfig.java
+END
+JpaProperties.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/buzzor/!svn/ver/25094/trunk/development/appConfigTemplate/appSourceCode/src/com/app/server/config/appSetup/model/JpaProperties.java
+END
+SearchEngineConfig.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/buzzor/!svn/ver/25512/trunk/development/appConfigTemplate/appSourceCode/src/com/app/server/config/appSetup/model/SearchEngineConfig.java
+END
+ConnectionPooling.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/buzzor/!svn/ver/25094/trunk/development/appConfigTemplate/appSourceCode/src/com/app/server/config/appSetup/model/ConnectionPooling.java
+END
+PathConfig.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/buzzor/!svn/ver/25512/trunk/development/appConfigTemplate/appSourceCode/src/com/app/server/config/appSetup/model/PathConfig.java
+END
+ConnectionConfig.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/buzzor/!svn/ver/25094/trunk/development/appConfigTemplate/appSourceCode/src/com/app/server/config/appSetup/model/ConnectionConfig.java
+END
+SchedulerConfig.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/buzzor/!svn/ver/25512/trunk/development/appConfigTemplate/appSourceCode/src/com/app/server/config/appSetup/model/SchedulerConfig.java
+END
+DriveProperties.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/buzzor/!svn/ver/25094/trunk/development/appConfigTemplate/appSourceCode/src/com/app/server/config/appSetup/model/DriveProperties.java
+END
+DatabaseConfig.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/buzzor/!svn/ver/25094/trunk/development/appConfigTemplate/appSourceCode/src/com/app/server/config/appSetup/model/DatabaseConfig.java
+END
+AuthPlugin.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/buzzor/!svn/ver/23901/trunk/development/appConfigTemplate/appSourceCode/src/com/app/server/config/appSetup/model/AuthPlugin.java
+END
+AuthenticationConfig.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/buzzor/!svn/ver/25094/trunk/development/appConfigTemplate/appSourceCode/src/com/app/server/config/appSetup/model/AuthenticationConfig.java
+END
+MailConfig.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/buzzor/!svn/ver/25094/trunk/development/appConfigTemplate/appSourceCode/src/com/app/server/config/appSetup/model/MailConfig.java
+END
+AppConfiguration.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/buzzor/!svn/ver/25094/trunk/development/appConfigTemplate/appSourceCode/src/com/app/server/config/appSetup/model/AppConfiguration.java
+END
+SolrProperties.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/buzzor/!svn/ver/25512/trunk/development/appConfigTemplate/appSourceCode/src/com/app/server/config/appSetup/model/SolrProperties.java
+END
+AppProperties.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/buzzor/!svn/ver/25094/trunk/development/appConfigTemplate/appSourceCode/src/com/app/server/config/appSetup/model/AppProperties.java
+END

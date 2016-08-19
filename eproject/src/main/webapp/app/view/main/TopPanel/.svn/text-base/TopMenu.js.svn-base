@@ -1,0 +1,10 @@
+Ext.define('Buzzor.view.main.TopPanel.TopMenu', { 
+	extend: 'Ext.toolbar.Toolbar',
+    xtype: 'topMenu',
+    requires:['Buzzor.view.main.TopPanel.TopMenuController',/*'Buzzor.view.main.ResourceWindow'*/],
+    controller :'topMenuController',
+    border:0,
+    itemId:'topMenuPanel',
+    autoScroll :true,
+    items:[]
+});

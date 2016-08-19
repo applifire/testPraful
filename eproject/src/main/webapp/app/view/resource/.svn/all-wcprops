@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/buzzor/!svn/ver/21423/trunk/development/appConfigTemplate/appSourceCode/WebContent/app/view/resource
+END
+AppMenuTreePanel.js
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/buzzor/!svn/ver/19092/trunk/development/appConfigTemplate/appSourceCode/WebContent/app/view/resource/AppMenuTreePanel.js
+END
+ResourcePanel.js
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/buzzor/!svn/ver/21423/trunk/development/appConfigTemplate/appSourceCode/WebContent/app/view/resource/ResourcePanel.js
+END
+DockedResourcePanel.js
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/buzzor/!svn/ver/18061/trunk/development/appConfigTemplate/appSourceCode/WebContent/app/view/resource/DockedResourcePanel.js
+END
+AppMenuTreePanelController.js
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/buzzor/!svn/ver/19570/trunk/development/appConfigTemplate/appSourceCode/WebContent/app/view/resource/AppMenuTreePanelController.js
+END
+ResourcePanelController.js
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/buzzor/!svn/ver/19897/trunk/development/appConfigTemplate/appSourceCode/WebContent/app/view/resource/ResourcePanelController.js
+END
+DockedResourcePanelController.js
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/buzzor/!svn/ver/18061/trunk/development/appConfigTemplate/appSourceCode/WebContent/app/view/resource/DockedResourcePanelController.js
+END

@@ -1,0 +1,83 @@
+10
+
+dir
+26966
+http://192.168.2.200:8800/svn/buzzor/trunk/development/appConfigTemplate/appSourceCode/WebContent/resources
+http://192.168.2.200:8800/svn/buzzor
+
+
+
+2016-06-16T11:33:07.355463Z
+25254
+manali.chakraborty
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+d2220bfa-05a9-e147-8bba-d5013bd1e558
+
+appdata
+dir
+
+appicons
+dir
+
+calendar
+dir
+
+css
+dir
+
+images
+dir
+
+itemselector
+dir
+
+square.gif
+file
+
+
+
+
+2015-12-12T11:56:50.000000Z
+ef8fb145f4897455ec37322406956b88
+2015-02-26T11:37:20.808261Z
+4203
+anant.navagale
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+71
+
+syntaxhighlighter
+dir
+

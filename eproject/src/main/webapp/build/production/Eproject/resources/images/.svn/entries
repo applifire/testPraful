@@ -1,0 +1,34 @@
+10
+
+dir
+26966
+http://192.168.2.200:8800/svn/buzzor/trunk/development/appConfigTemplate/appSourceCode/WebContent/resources/images
+http://192.168.2.200:8800/svn/buzzor
+
+
+
+2015-08-13T15:14:04.907986Z
+12853
+nishant.prasad
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+d2220bfa-05a9-e147-8bba-d5013bd1e558
+
+default
+dir
+
+mobile
+dir
+

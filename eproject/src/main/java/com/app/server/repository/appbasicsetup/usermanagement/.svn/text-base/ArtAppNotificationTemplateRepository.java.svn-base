@@ -1,0 +1,5 @@
+package com.app.server.repository.appbasicsetup.usermanagement;
+public interface ArtAppNotificationTemplateRepository {
+
+	ArtAppNotificationTemplate findById(String templateId) throws Exception;
+}

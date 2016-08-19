@@ -1,0 +1,34 @@
+10
+
+dir
+26966
+http://192.168.2.200:8800/svn/buzzor/trunk/development/appConfigTemplate/appSourceCode/WebContent/fusionchart
+http://192.168.2.200:8800/svn/buzzor
+
+
+
+2015-12-30T07:29:56.148888Z
+18201
+manali.chakraborty
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+d2220bfa-05a9-e147-8bba-d5013bd1e558
+
+assets
+dir
+
+js
+dir
+

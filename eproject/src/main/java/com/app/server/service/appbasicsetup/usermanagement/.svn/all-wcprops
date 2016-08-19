@@ -1,0 +1,34 @@
+package com.app.server.service.appbasicsetup.usermanagement;svn:wc:ra_dav:version-url
+V 132
+/svn/buzzor/!svn/ver/26674/trunk/development/appConfigTemplate/appSourceCode/src/com/app/server/service/appbasicsetup/usermanagement
+END
+PasswordGeneratorService.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/buzzor/!svn/ver/25094/trunk/development/appConfigTemplate/appSourceCode/src/com/app/server/service/appbasicsetup/usermanagement/PasswordGeneratorService.java
+END
+ArtPasswordPolicyService.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/buzzor/!svn/ver/26075/trunk/development/appConfigTemplate/appSourceCode/src/com/app/server/service/appbasicsetup/usermanagement/ArtPasswordPolicyService.java
+END
+ArtPasswordPolicyServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/svn/buzzor/!svn/ver/26655/trunk/development/appConfigTemplate/appSourceCode/src/com/app/server/service/appbasicsetup/usermanagement/ArtPasswordPolicyServiceImpl.java
+END
+ArtPasswordAlgorithmService.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/buzzor/!svn/ver/26674/trunk/development/appConfigTemplate/appSourceCode/src/com/app/server/service/appbasicsetup/usermanagement/ArtPasswordAlgorithmService.java
+END
+ArtPasswordAlgorithmServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/svn/buzzor/!svn/ver/26655/trunk/development/appConfigTemplate/appSourceCode/src/com/app/server/service/appbasicsetup/usermanagement/ArtPasswordAlgorithmServiceImpl.java
+END

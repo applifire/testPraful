@@ -1,0 +1,88 @@
+10
+
+dir
+26966
+http://192.168.2.200:8800/svn/buzzor/trunk/development/appConfigTemplate/appSourceCode/WebContent/app/view
+http://192.168.2.200:8800/svn/buzzor
+
+
+
+2016-08-17T10:08:08.194198Z
+26930
+viral.patel
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+d2220bfa-05a9-e147-8bba-d5013bd1e558
+
+apphealth
+dir
+
+appreportui
+dir
+
+calendar
+dir
+
+clouddrive
+dir
+
+console
+dir
+
+databrowsercalendar
+dir
+
+desktop
+dir
+
+fw
+dir
+
+googlemaps
+dir
+
+logalarm
+dir
+
+logger
+dir
+
+login
+dir
+
+main
+dir
+
+mainleftmenutree
+dir
+
+maintopmenu
+dir
+
+resource
+dir
+
+scheduleconfiguration
+dir
+
+searchengine
+dir
+
+securityconfig
+dir
+
+usermanagement
+dir
+

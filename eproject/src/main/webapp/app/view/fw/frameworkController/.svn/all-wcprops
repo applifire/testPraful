@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/buzzor/!svn/ver/26867/trunk/development/appConfigTemplate/appSourceCode/WebContent/app/view/fw/frameworkController
+END
+TemplateController.js
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/buzzor/!svn/ver/14422/trunk/development/appConfigTemplate/appSourceCode/WebContent/app/view/fw/frameworkController/TemplateController.js
+END
+AggregateViewController.js
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/buzzor/!svn/ver/20590/trunk/development/appConfigTemplate/appSourceCode/WebContent/app/view/fw/frameworkController/AggregateViewController.js
+END
+ListViewBaseController.js
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/buzzor/!svn/ver/23160/trunk/development/appConfigTemplate/appSourceCode/WebContent/app/view/fw/frameworkController/ListViewBaseController.js
+END
+RegistrationGridViewController.js
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/buzzor/!svn/ver/24792/trunk/development/appConfigTemplate/appSourceCode/WebContent/app/view/fw/frameworkController/RegistrationGridViewController.js
+END
+FrameworkViewController.js
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/buzzor/!svn/ver/26867/trunk/development/appConfigTemplate/appSourceCode/WebContent/app/view/fw/frameworkController/FrameworkViewController.js
+END
+FileUploadComponentController.js
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/buzzor/!svn/ver/16648/trunk/development/appConfigTemplate/appSourceCode/WebContent/app/view/fw/frameworkController/FileUploadComponentController.js
+END
+RegistrationViewController.js
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/buzzor/!svn/ver/24792/trunk/development/appConfigTemplate/appSourceCode/WebContent/app/view/fw/frameworkController/RegistrationViewController.js
+END

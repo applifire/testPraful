@@ -1,0 +1,100 @@
+package com.app.server.businessservice.appbasicsetup.aaa;svn:wc:ra_dav:version-url
+V 124
+/svn/buzzor/!svn/ver/26889/trunk/development/appConfigTemplate/appSourceCode/src/com/app/server/bizService/appbasicsetup/aaa
+END
+AuthenticatePassword.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/buzzor/!svn/ver/25094/trunk/development/appConfigTemplate/appSourceCode/src/com/app/server/bizService/appbasicsetup/aaa/AuthenticatePassword.java
+END
+DBAuthBusinessService.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/buzzor/!svn/ver/25974/trunk/development/appConfigTemplate/appSourceCode/src/com/app/server/bizService/appbasicsetup/aaa/DBAuthBusinessService.java
+END
+SessionValidation.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/buzzor/!svn/ver/25974/trunk/development/appConfigTemplate/appSourceCode/src/com/app/server/bizService/appbasicsetup/aaa/SessionValidation.java
+END
+VerifyRecaptcha.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/buzzor/!svn/ver/25974/trunk/development/appConfigTemplate/appSourceCode/src/com/app/server/bizService/appbasicsetup/aaa/VerifyRecaptcha.java
+END
+Payload.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/buzzor/!svn/ver/25319/trunk/development/appConfigTemplate/appSourceCode/src/com/app/server/bizService/appbasicsetup/aaa/Payload.java
+END
+ADAuthBusinessService.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/buzzor/!svn/ver/25974/trunk/development/appConfigTemplate/appSourceCode/src/com/app/server/bizService/appbasicsetup/aaa/ADAuthBusinessService.java
+END
+UserAccessRightService.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/buzzor/!svn/ver/25974/trunk/development/appConfigTemplate/appSourceCode/src/com/app/server/bizService/appbasicsetup/aaa/UserAccessRightService.java
+END
+UserAccessRightServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/buzzor/!svn/ver/25974/trunk/development/appConfigTemplate/appSourceCode/src/com/app/server/bizService/appbasicsetup/aaa/UserAccessRightServiceImpl.java
+END
+AuthenticateBusinessService.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/buzzor/!svn/ver/25974/trunk/development/appConfigTemplate/appSourceCode/src/com/app/server/bizService/appbasicsetup/aaa/AuthenticateBusinessService.java
+END
+AuthenticateBusinessServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/buzzor/!svn/ver/26889/trunk/development/appConfigTemplate/appSourceCode/src/com/app/server/bizService/appbasicsetup/aaa/AuthenticateBusinessServiceImpl.java
+END
+UrlPatternDefinitions.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/buzzor/!svn/ver/25974/trunk/development/appConfigTemplate/appSourceCode/src/com/app/server/bizService/appbasicsetup/aaa/UrlPatternDefinitions.java
+END
+CookieValidation.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/buzzor/!svn/ver/25974/trunk/development/appConfigTemplate/appSourceCode/src/com/app/server/bizService/appbasicsetup/aaa/CookieValidation.java
+END
+TokenGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/buzzor/!svn/ver/26284/trunk/development/appConfigTemplate/appSourceCode/src/com/app/server/bizService/appbasicsetup/aaa/TokenGenerator.java
+END
+SessionDataGeneration.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/buzzor/!svn/ver/26075/trunk/development/appConfigTemplate/appSourceCode/src/com/app/server/bizService/appbasicsetup/aaa/SessionDataGeneration.java
+END
+UrlPatternDefinitionImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/buzzor/!svn/ver/25974/trunk/development/appConfigTemplate/appSourceCode/src/com/app/server/bizService/appbasicsetup/aaa/UrlPatternDefinitionImpl.java
+END
+TokenValidation.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/buzzor/!svn/ver/26075/trunk/development/appConfigTemplate/appSourceCode/src/com/app/server/bizService/appbasicsetup/aaa/TokenValidation.java
+END

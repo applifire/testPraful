@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/buzzor/!svn/ver/26715/trunk/development/appConfigTemplate/appSourceCode/WebContent/app/view/usermanagement/admin
+END
+AddUserDetails.js
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/buzzor/!svn/ver/24469/trunk/development/appConfigTemplate/appSourceCode/WebContent/app/view/usermanagement/admin/AddUserDetails.js
+END
+EditUser.js
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/buzzor/!svn/ver/9326/trunk/development/appConfigTemplate/appSourceCode/WebContent/app/view/usermanagement/admin/EditUser.js
+END
+UserPasswordResetController.js
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/buzzor/!svn/ver/24483/trunk/development/appConfigTemplate/appSourceCode/WebContent/app/view/usermanagement/admin/UserPasswordResetController.js
+END
+AddUserDetailsController.js
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/buzzor/!svn/ver/26715/trunk/development/appConfigTemplate/appSourceCode/WebContent/app/view/usermanagement/admin/AddUserDetailsController.js
+END
+EditUserController.js
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/buzzor/!svn/ver/24483/trunk/development/appConfigTemplate/appSourceCode/WebContent/app/view/usermanagement/admin/EditUserController.js
+END
+ViewUser.js
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/buzzor/!svn/ver/8727/trunk/development/appConfigTemplate/appSourceCode/WebContent/app/view/usermanagement/admin/ViewUser.js
+END
+UserForm.js
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/buzzor/!svn/ver/24469/trunk/development/appConfigTemplate/appSourceCode/WebContent/app/view/usermanagement/admin/UserForm.js
+END
+AddUserDetailsViewModel.js
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/buzzor/!svn/ver/8629/trunk/development/appConfigTemplate/appSourceCode/WebContent/app/view/usermanagement/admin/AddUserDetailsViewModel.js
+END
+AdminUserManagement.js
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/buzzor/!svn/ver/9546/trunk/development/appConfigTemplate/appSourceCode/WebContent/app/view/usermanagement/admin/AdminUserManagement.js
+END
+ViewUserController.js
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/buzzor/!svn/ver/24483/trunk/development/appConfigTemplate/appSourceCode/WebContent/app/view/usermanagement/admin/ViewUserController.js
+END
+UserPasswordReset.js
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/buzzor/!svn/ver/24483/trunk/development/appConfigTemplate/appSourceCode/WebContent/app/view/usermanagement/admin/UserPasswordReset.js
+END
